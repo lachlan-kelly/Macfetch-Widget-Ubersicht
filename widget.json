@@ -1,1 +1,4 @@
-Its just a widget that displayes macfetch info like a terminal but on your desktop
+  "name": "Macfetch",
+  "description": "Macfetch terminal widget",
+  "author": "lachlan-kelly",
+  "email": "lachlan.kelly@phasezero.com.au"
